@@ -31,6 +31,7 @@
     text-align: right;
     font-size: 4rem;
     margin: 0;
+    word-break: break-all;
 }
 
 .buttons {
